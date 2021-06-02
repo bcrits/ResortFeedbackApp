@@ -1,20 +1,20 @@
 # ResortFeedbackApp
 
-##Project Description
+## Project Description
 An app designed to solicit feedback from guests of a resort.
 
-##Technologies Used
+## Technologies Used
 * Core Data Framework
 * UserDefaults
 * Storyboard
 
-##Features
+## Features
 * Receives user feedback and stores to database
 * Remember Me option stores login information in UserDefaults
 * Create an account and login with that account
 * Forgot password page to reset password
 
-##Getting Started
+## Getting Started
 git clone https://github.com/bcrits/ResortFeedbackApp.git
 * Must be on MacOS and have Xcode installed.
 * Change directories to "ResortFeedbackApp" wherever you have installed it.
@@ -23,7 +23,7 @@ git clone https://github.com/bcrits/ResortFeedbackApp.git
 * This app is primarily designed for iPhone 11, so run the simulator using an iPhone 11 for the proper viewing experience.
 * Build the project and run the app on a simulator, or iPhone.
 
-##Using the App
+## Using the App
 * Run the App
 * Press "Sign In" to create an account
 * Go back to the Login Screen to Login
